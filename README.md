@@ -23,8 +23,11 @@ Portfolio project analytics Netflix subscription and revenue trends from 2018-20
 
 ## Data Analysis
 ### Data Cleaning in SQL
-- .....
-- .....
+- Performed EDA to determine what KPIs can be dervied from the data and if any cleaning needed to be done
+- Converted quarters to dates (i.e. April 1 is Q1)
+- Create a column for previous revenue/subscriber count
+- Calculate growth and difference using previous revenue/subscriber data
 ### Prep for Visualization
 - Combined the data from both CSV files on the date and the region
-- Created a calculated field for.....
+- Created a calculated field for ARPU (Revenue/Subs)
+- Based on the KPIs that could be extracted from the dataset, I created appropriate visualizations for each and designed the dashboard for them.
