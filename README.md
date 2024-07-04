@@ -2,7 +2,7 @@
 
 Portfolio project analytics Netflix subscription and revenue trends from 2018-2020. Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/areg.adamian/viz/NetflixSubscriberandRevenueData/Dashboard3#1).
 
-![Screenshot of dashboard](https://github.com/AregAdamian/SpotifyData/blob/main/Main%20Dashboard_New.png)
+![Screenshot of dashboard](https://github.com/AregAdamian/Netflix-Revenue-Data/blob/main/Dashboard.png)
 
 ## Summary of Insights
 ### Subscribers
